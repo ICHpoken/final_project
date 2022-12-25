@@ -8,4 +8,4 @@
   - Ввести в консоль команду (python find-file-difference --file1 /path/to/file1.json --file2 /path/to/file2.json)
 
 Ссылка на видео работы программы:
-https://www.youtube.com/watch?v=yuM5OGdU4os
+https://youtu.be/ViKrGOYeScQ
